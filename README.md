@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=hello&fontSize=90)
 
 <div align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smartyoon&show_icons=true&theme=tokyonight)
